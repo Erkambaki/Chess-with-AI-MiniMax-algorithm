@@ -1,1 +1,9 @@
-The games that use artificial intelligence have created an alternative design category named as player versus computer (PVC). The games that are designed as PVC consist of at least one human player and one artificial intelligence algorithm. For instance, the game of chess is a solid example to PVC game design. One of the most efficient designs for the artificial intelligence algorithm created for playing chess is by considering all the possible steps to decide the best outcome by minimizing the gain of the opponent and maximizing the chance of success in a certain situation during the game. This algorithm is called MiniMax algorithm. In this project I have attempted to create an AI opponent with MiniMax algorithm.
+# Chess with AI MiniMax algorithm
+
+## Features
+
+- Play chess against an AI opponent.
+- AI uses the MiniMax algorithm with optimizations for efficient performance.
+- [Any GUI components, if applicable]
+- Option to undo moves or hints for possible moves, if implemented.
+- [Any other unique features of your implementation]
